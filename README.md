@@ -3,6 +3,10 @@
 - python >= 3.6  
 - face_recognition >= 1.2.2  
 - opencv-python >= 3.2.0.6  
+- cuda >= 9.0.176  
+- cudnn >= 9.0  
+- cmake >= 3.12.0  
+- dlib >= 19.15.0  
 - threading  
 - serial  
   
